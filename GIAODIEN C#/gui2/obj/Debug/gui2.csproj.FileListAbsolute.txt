@@ -1,0 +1,10 @@
+D:\vscode\duan\gui2\bin\Debug\gui2.exe.config
+D:\vscode\duan\gui2\bin\Debug\gui2.exe
+D:\vscode\duan\gui2\bin\Debug\gui2.pdb
+D:\vscode\duan\gui2\obj\Debug\gui2.csproj.AssemblyReference.cache
+D:\vscode\duan\gui2\obj\Debug\gui2.Form1.resources
+D:\vscode\duan\gui2\obj\Debug\gui2.Properties.Resources.resources
+D:\vscode\duan\gui2\obj\Debug\gui2.csproj.GenerateResource.cache
+D:\vscode\duan\gui2\obj\Debug\gui2.csproj.CoreCompileInputs.cache
+D:\vscode\duan\gui2\obj\Debug\gui2.exe
+D:\vscode\duan\gui2\obj\Debug\gui2.pdb
