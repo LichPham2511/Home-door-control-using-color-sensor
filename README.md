@@ -1,5 +1,5 @@
 # Home door control using color sensor
-Teamwork
+UART communication
 
 ## Introduction
 
